@@ -44,6 +44,8 @@ jobs:
           ls -la dist/
           echo "=== dist/index.html ==="
           head -20 dist/index.html
+          echo "=== dist/404.html ==="
+          ls -la dist/404.html || echo "WARNING: 404.html missing!"
           echo "=== dist/assets/ ==="
           ls -la dist/assets/
 
