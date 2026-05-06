@@ -2,7 +2,7 @@
   <header class="home-header">
     <div ref="personalImage" class="personal-image">
       <img
-        :src="'/hero-portrait.jpg'"
+        :src="'/hero-portrait.png'"
         alt="Rizky Aditya Ichwanto"
         loading="eager"
       />

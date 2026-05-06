@@ -11,7 +11,7 @@
               <div style="display: flex; align-items: center; gap: 16px; margin-bottom: 28px;">
                 <div style="width: 52px; height: 52px; border-radius: 50%; overflow: hidden; background: #2a2a35;">
                   <img
-                    :src="'/hero-portrait.jpg'"
+                    :src="'/hero-portrait.png'"
                     alt="Rizky Aditya Ichwanto"
                     style="width: 100%; height: 100%; object-fit: cover; filter: grayscale(40%);"
                   />
